@@ -3,7 +3,7 @@
  */
 @font-face {
   font-family: "LubalinDemiIBM";
-  src: url("/static/ibm.woff") format("woff"); }
+  src: url("../static/ibm.woff") format("woff"); }
 
 body {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
