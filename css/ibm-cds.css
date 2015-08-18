@@ -6,7 +6,7 @@
   src: url("../static/ibm.woff") format("woff"); }
 
 body {
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif !important;
   color: #222222; }
 
 h1 {
@@ -28,3 +28,11 @@ a {
 
 .btn-primary {
   background: #A72185; }
+
+/*
+  Reveal.js Specific
+ */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  text-transform: none; }
+  .reveal h1 a, .reveal h2 a, .reveal h3 a, .reveal h4 a {
+    color: #222222 !important; }

@@ -1,4 +1,4 @@
-# Generated on 2015-08-16 using generator-cds-talk 0.1.1
+# Generated on 2015-08-18 using generator-cds-talk 0.1.1
 module.exports = (grunt) ->
 
     grunt.initConfig
