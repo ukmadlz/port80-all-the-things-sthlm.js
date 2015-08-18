@@ -51,5 +51,11 @@
         "apache-couchdb.md",
         "allocation-monolith.md"
     ],
-    "service-orientated-architecture.md"
+    [
+        "service-orientated-architecture.md",
+        "soa-microservice.md",
+        "what-is-soa.md",
+        "soa-concepts.md"
+    ],
+    "microservices.md"
 ]
