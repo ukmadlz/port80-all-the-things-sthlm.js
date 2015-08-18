@@ -68,5 +68,40 @@
             }
         }
     ],
-    "opinion-time.md"
+    [
+        "opinion-time.md",
+        "why-its-grown.md",
+        "best-example-i-have.md",
+        {
+            "filename": "battlehack.md",
+            "attr": {
+                "data-background": "#3B4B54"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/battlehack-london-2014.jpg"
+            }
+        },
+        "yes-we-kept-the-axe.md",
+        "did-this-by.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/thumbs-up.gif"
+            }
+        }
+    ],
+    [
+        "the-bad-side.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/infinite-facepalm.gif"
+            }
+        },
+        "you-can-avoid-this.md"
+    ],
+    "the-end.md"
 ]
