@@ -57,5 +57,16 @@
         "what-is-soa.md",
         "soa-concepts.md"
     ],
-    "microservices.md"
+    [
+        "microservices.md",
+        "and-the-difference.md",
+        "the-advantage.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/erika-hearts.gif"
+            }
+        }
+    ],
+    "opinion-time.md"
 ]

@@ -1,10 +1,10 @@
 # SOA Concepts
 
-* Consumer Interface Layer
-* Business Process Layer
-* Services
-* Service Components
-* Operational Systems
+1. Consumer Interface Layer<!-- .element: class="fragment" data-fragment-index="1" -->
+* Business Process Layer<!-- .element: class="fragment" data-fragment-index="2" -->
+* Services<!-- .element: class="fragment" data-fragment-index="3" -->
+* Service Components<!-- .element: class="fragment" data-fragment-index="4" -->
+* Operational Systems<!-- .element: class="fragment" data-fragment-index="5" -->
 
 note:
     Consumer Interface Layer – These are GUI for end users or apps accessing apps/service interfaces.
